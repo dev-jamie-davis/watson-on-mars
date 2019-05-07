@@ -1,0 +1,10 @@
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\bin\Debug\WatsonOnMars.exe.config
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\bin\Debug\WatsonOnMars.exe
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\bin\Debug\WatsonOnMars.pdb
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\obj\Debug\WatsonOnMars.Form1.resources
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\obj\Debug\WatsonOnMars.Properties.Resources.resources
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\obj\Debug\WatsonOnMars.csproj.GenerateResource.cache
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\obj\Debug\WatsonOnMars.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\obj\Debug\WatsonOnMars.exe
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\obj\Debug\WatsonOnMars.pdb
+C:\Users\Jamie\Desktop\personal projects\WatsonOnMars\WatsonOnMars\obj\Debug\WatsonOnMars.csprojAssemblyReference.cache
